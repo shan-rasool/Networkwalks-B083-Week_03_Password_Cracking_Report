@@ -358,18 +358,16 @@ If you want to repeat this kind of exercise, do it **only on files you own or ha
 
 <img src="https://img.shields.io/badge/Shan_Rasool-Cybersecurity_Intern-B71C1C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Author badge"/>
 
-**Shan Rasool** &nbsp;|&nbsp; Batch **B083** &nbsp;|&nbsp; **Networkwalks**
-*Cybersecurity & Ethical Hacking Program*
+**Shan Rasool** 
+*Cybersecurity & Ethical Hacking*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shan-rasool)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shan--rasool)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanrasool2002@gmail.com)
 
 </div>
-
-> ✏️ *Replace the GitHub, LinkedIn and email links above with your own.*
 
 ---
 
